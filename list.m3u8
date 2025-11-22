@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="canal1" tvg-name="Canal Principal" tvg-logo="https://example.com/logo.png" group-title="General",Canal Principal
-https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-id="DAZN.es" tvg-name="DAZN" tvg-logo="https://example.com/dazn.png" group-title="Deportes",DAZN
+https://6anime.click/boxing2/index.m3u8?DVR&token=f91033be8d41d3677ba81c6517d3ea73d68d87ea-2b994925180714d653b44e2babea49a4-1763853899-1763843099&autoplay=true
